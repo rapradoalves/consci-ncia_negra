@@ -1,0 +1,36 @@
+#imagem1{
+    width:100%;
+}
+
+ #imagem2{
+    width:50%;
+ }
+    
+ #imagem3{
+    width:50%;
+ }
+ 
+
+p {
+    text-align:justify;
+}
+
+h1 {
+tex-align:ceter;
+color:rgba(236, 232, 0, 0.795);
+border-width:10px;
+border-style:solid;
+border-color:rgb(114, 114, 114);
+}
+p{
+    tex-align:ceter;
+color:rgba(199, 182, 148, 0.795);
+}
+
+b {
+    tex-align:ceter;
+    color:rgba(247, 214, 149, 0.795);
+
+}
+
+
